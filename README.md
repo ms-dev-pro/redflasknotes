@@ -6,13 +6,13 @@
 
 ### How to use
 
-Dillinger requires [Docker & Docker-compose](https://docs.docker.com/) to run.
+RedFlaskNotes requires [Docker & Docker-compose](https://docs.docker.com/) to run.
 
 ### Setup
 
 Clone the repository: 
 ```sh
-$ git clone repoUrl
+$ git clone https://github.com/ms-dev-pro/redflasknotes.git  
 ```
 
 Launch the docker environment:
